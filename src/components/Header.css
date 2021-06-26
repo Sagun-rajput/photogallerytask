@@ -1,0 +1,21 @@
+.header{
+    background-color: black;
+    margin: 0;
+    height: 20vh;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    flex-direction:column;
+    align-items: center;
+    color: white;
+}
+.search_div{
+    background-color:white;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    width: 30%;
+    height:6vh;
+    border-radius:15px;
+    color: black;
+}
