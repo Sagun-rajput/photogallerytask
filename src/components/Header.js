@@ -9,7 +9,6 @@ function Header() {
             <div className="header-title">
                 <h1>Search Photos</h1>
             </div>
-            
             <Search/>
         </div>
     )
